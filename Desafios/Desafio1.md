@@ -1,4 +1,4 @@
-#Script de criação de estrutura de usuários, diretórios e permissões.
+# Script de criação de estrutura de usuários, diretórios e permissões.
 
 - Todo provisionamento deve ser feito em um arquivo do tipo Bash Script;
 - O dono de todos os diretórios criados será o usuário root;
